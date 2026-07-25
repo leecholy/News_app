@@ -2,7 +2,7 @@
 
 ## Figma
 
-<a href="https://www.figma.com/design/Q1KMop8nMInYspWy8NzcEQ/NewsApp?node-id=13-1628&t=sNEsHLUU2hnOTKLH-1" target="_blank">피그마 디자인 시안 보러가기</a>
+<a href="https://www.figma.com/design/Q1KMop8nMInYspWy8NzcEQ/NewsApp?node-id=2017-345&t=sNEsHLUU2hnOTKLH-1" target="_blank">피그마 디자인 시안 보러가기</a>
 
 ## Design Tokens
 - [Color](https://www.figma.com/design/Q1KMop8nMInYspWy8NzcEQ/NewsApp?node-id=13-1629&t=sNEsHLUU2hnOTKLH-1)

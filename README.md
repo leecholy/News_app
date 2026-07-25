@@ -12,4 +12,4 @@
 - Layout Guide
 
   ## Screens
-  ![메인앱]()
+  ![메인앱](https://github.com/leecholy/News_app/blob/main/News_Prototype1.png)

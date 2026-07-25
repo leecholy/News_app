@@ -1,0 +1,87 @@
+.card-narrow-ep-frame-card-narrow-ep {
+  gap: 14px;
+  width: 150px;
+  height: auto;
+  display: flex;
+  position: relative;
+  max-width: 150px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.card-narrow-ep-frame-card-img018v {
+  width: 100%;
+  max-width: 150px;
+  align-self: stretch;
+  box-sizing: border-box;
+  min-height: 214px;
+}
+.card-narrow-ep-image-img84 {
+  width: 150px;
+  height: 214px;
+  margin: 0;
+  display: block;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-radius: 6px 6px 6px 6px;
+}
+.card-narrow-ep-frame-text-frame-to {
+  gap: 6px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  max-width: 150px;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.card-narrow-ep-text-title4p1 {
+  width: 100%;
+  max-width: 100%;
+  align-self: stretch;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+.card-narrow-ep-text-title4p2 {
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "AppleSDGothicNeoEB00",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+  text-decoration: none;
+}
+.card-narrow-ep-text-body-fq1 {
+  width: 100%;
+  max-width: 100%;
+  align-self: stretch;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+.card-narrow-ep-text-body-fq2 {
+  color: #4a4a4a;
+  font-size: 12px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "AppleSDGothicNeoM00",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+  text-decoration: none;
+}
